@@ -6,4 +6,4 @@
 
 - しろねこ が リンゴ をキャッチするゲーム
 
-![pyxeel_game](https://pyxel_game.png "pyxel_game")
+![pyxeel_game](https://github.com/whitecat-22/pyxel_game/pyxel_game.png "pyxel_game")
